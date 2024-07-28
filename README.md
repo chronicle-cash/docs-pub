@@ -62,5 +62,5 @@ A microservice based bookkeeping / personal finance application to learn how to 
   export default ServerComponent;
 
 ## Diagrams
-### API Auth in K8s
+### API Auth
 ![API auth diagram](api-auth.png)
